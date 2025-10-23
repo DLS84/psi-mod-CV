@@ -41172,18 +41172,18 @@ is_a: MOD:00203 ! D-asparagine
 [Term]
 id: MOD:02098
 name: residue modified by radical mechanism
-def: "A chemical transformation driven by a radical reaction." [doi:https://pubs.acs.org/doi/10.1021/ac035104h]
+def: "A chemical transformation driven by a radical reaction." [PubMed:14670063, doi:https://pubs.acs.org/doi/10.1021/ac035104h]
 
 [Term]
 id: MOD:02099
 name: residue modified by radical hydroxylation
-def: "A hydroxyl substition induced by a radical reaction." [PMID:17683160]
+def: "A hydroxyl substition induced by a radical reaction." [PubMed:17683160]
 is_a: MOD:02098
 
 [Term]
 id: MOD:02100
 name: N2-Formyl-L-asparagine
-def: "A protein modification that effectively transforms an L-histidine residue to N2-formyl asparagine" [OSTI ID:6518101; doi:10.1016/0040-4039(91)80099-R]
+def: "A protein modification that effectively transforms an L-histidine residue to N2-formyl asparagine" [OSTI ID:6518101, doi:10.1016/0040-4039(91)80099-R]
 synonym: "Nω-formyl asparagine"
 synonym: "(2S)-4-amino-2-formamido-4-oxobutanoic acid"
 synonym: "Formylasparagine"
@@ -41204,7 +41204,7 @@ is_a: MOD:02099 ! residue modified by radical hydroxylation
 [Term]
 id: MOD:02101
 name: 2-Amino-4,5-dioxopentanoic acid
-def: "A protein modification that effectively transforms a histidine side chain to that of 2-Amino-4,5-dioxopentanoic acid" [PMID:14670063]
+def: "A protein modification that effectively transforms a histidine side chain to that of 2-Amino-4,5-dioxopentanoic acid" [PubMed:14670063]
 subset: PSI-MOD-slim
 xref: DiffAvg: "-10.04"
 xref: DiffFormula: "H -2 C -1 N -2 O 2"
@@ -41221,7 +41221,7 @@ is_a: MOD:02099 ! residue modified by radical hydroxylation
 [Term]
 id: MOD:02102
 name: 2-hydroxy-L-phenylalanine
-def: "A protein modification that effectively converts a L-Phenylalanine residue to 2-hydroxy-L-phenylalanine." [PMID:8509373]
+def: "A protein modification that effectively converts a L-Phenylalanine residue to 2-hydroxy-L-phenylalanine." [PubMed:8509373]
 synonym: "DL-o-Tyrosine"
 synonym: "2-amino-3-(2-hydroxyphenyl)propanoic acid"
 synonym: "O-Tyrosine"
@@ -41242,7 +41242,7 @@ is_a: MOD:02099 ! residue modified by radical hydroxylation
 
 id: MOD:02104
 name: 4-hydroxy-L-phenylalanine
-def: "A protein modification that effectively substitutes a hydroxy group at position 4 of L-phenylalanine" [PMID:7408053]
+def: "A protein modification that effectively substitutes a hydroxy group at position 4 of L-phenylalanine" [PubMed:7408053]
 synonym: “L-tyrosine” EXACT PSI-MOD-name
 synonym: "L-Tyrosine"
 synonym:"(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid"
